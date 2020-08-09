@@ -36,5 +36,6 @@ final class TextMeTest extends TestCase
         yield ['foo_bar'];
         yield ['Foo_Bar'];
         yield ['foo_BAR'];
+        yield ['fOo_BAR'];
     }
 }
