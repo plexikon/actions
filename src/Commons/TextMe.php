@@ -16,4 +16,9 @@ final class TextMe
     {
         return $this->text;
     }
+
+    public function format(): string
+    {
+        return strtoupper($this->text);
+    }
 }
