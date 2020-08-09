@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="Chronicle Test Suite">
+        <testsuite name="Actions Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
